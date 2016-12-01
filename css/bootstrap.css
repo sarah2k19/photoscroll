@@ -188,12 +188,6 @@ th {
   padding: 0;
 }
 
-.like-button {
- color:red;
- background:black;
- padding:40px;
- margin:40px;
-}
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
@@ -2259,9 +2253,10 @@ table {
   background-color: transparent;
 }
 caption {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  color: #777;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 2px solid black;
+ // color: #777;
   text-align: left;
 }
 th {
