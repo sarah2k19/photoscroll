@@ -12,6 +12,10 @@ html {
 body {
   margin: 0;
 }
+.like-button {
+  padding: 20px;
+  border: 1px solid black;
+}
 article,
 aside,
 details,
