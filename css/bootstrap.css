@@ -189,6 +189,7 @@ th {
 }
 
 .like-button {
+  font-size: 40px;
   padding: 20px;
   border: 1px solid #e0c4ab;
   background-color: #77fd04;
